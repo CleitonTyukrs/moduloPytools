@@ -1,0 +1,21 @@
+idna==3.3
+requests==2.27.1
+urllib3==1.26.10
+tomli>=1.0.0
+atomicwrites>=1.0
+importlib-metadata>=0.12
+
+# Deps do Pytest
+pytest==7.0.1
+pluggy==1.0.0
+attrs==22.1.0
+py==1.11.0
+zipp==3.6.0
+typing-extensions>=3.6.4
+pyparsing!=3.0.5,>=2.0.2
+-r requirements.txt
+
+
+
+
+
